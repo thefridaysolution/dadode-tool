@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Dadode (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Dadode (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
